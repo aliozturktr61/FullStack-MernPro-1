@@ -22,4 +22,7 @@ $ npm i
 
 // Hazırız!  Client ve Server ı başlatalım
 - $ cd mernpro1/client npm start 
-- $ cd mernpro1/server npm run start# FullStack-MernPro-1
+- $ cd mernpro1/server npm run start
+
+- ![mern-1](https://github.com/user-attachments/assets/5305d0de-8514-4717-8182-ee362bf7110d)
+
