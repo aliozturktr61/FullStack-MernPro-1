@@ -24,5 +24,6 @@ $ npm i
 - $ cd mernpro1/client npm start 
 - $ cd mernpro1/server npm run start
 
-- ![mern-1](https://github.com/user-attachments/assets/5305d0de-8514-4717-8182-ee362bf7110d)
+- ![mern-1](https://github.com/user-attachments/assets/afde4f79-b99f-4713-bf8b-8dec095b1240)
+
 
